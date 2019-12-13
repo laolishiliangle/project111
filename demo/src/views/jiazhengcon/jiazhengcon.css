@@ -1,0 +1,29 @@
+.HDmain {
+    height: 2.5rem;
+    width: 100%;
+    background-color: white;
+    padding:0.2rem;
+    box-sizing: border-box;
+    margin-bottom: 0.2rem;
+}
+.hdmh3{
+    font-size: 0.24rem;
+    font-weight: bold;
+}
+.f16{
+    font-size: 0.16rem;
+}
+.hditem{
+    display: flex;
+    line-height: 0.33rem;    
+}
+.hditem b{
+    margin-right: 0.2rem;
+}
+.hditem div{
+    color:#9a9a9a
+}
+.hdmhp{
+    line-height: 0.3rem;
+    color: #9a9a9a;
+}

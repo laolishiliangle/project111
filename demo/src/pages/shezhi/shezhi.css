@@ -1,0 +1,20 @@
+.hh1{
+    position: relative;
+    bottom: 0.4rem;
+    left: 2.5rem;
+}
+.bac3{
+    position: relative;
+    left: 2.8rem;
+    top: 0.1rem;
+}
+.gai1 input{
+    width: 4.2rem;
+    height: 0.6rem;
+    margin-top: 0.4rem;
+   margin-left: 1.5rem
+}
+.gai1 button{
+    margin-left: 3.3rem;
+    margin-top: 0.5rem
+}

@@ -1,0 +1,68 @@
+.login{
+    background:#007af5;
+    text-align: center;
+    color: white;
+    font-size: 0.3rem;
+    height: 0.8rem;
+    padding-top:0.35rem;
+    margin-bottom: 0.5rem
+}
+.button{
+    background: #007af5;
+    width: 90%;
+    height: 0.7rem;
+    color: white;
+    text-align: center;margin-left: 0.3rem;          
+    margin-top: 0.3rem;
+    padding-top: 0.2rem
+}
+.inp{
+    width: 90%;
+    height: 1rem;
+     margin-left: 0.3rem
+}
+.forget{
+    color: #ccc;
+    font-size: 0.14rem;
+    position: relative;
+    left: 5.8rem;
+    top:0.3rem;
+   margin-bottom: 1.1rem
+}
+.reg{
+    font-weight: bold;
+   margin-left: 3.3rem;
+}
+.or{
+    text-align: center;
+    margin-top: 0.6rem;
+    color: gray;
+    
+}
+.name{
+    position: relative;
+    right:5rem;
+}
+.three{
+    font-size: 0.4rem;
+    display: inline-block;
+    margin-top: 0.2rem
+}
+.code{
+    background: #007af5;
+    width: 1.2rem;
+    height: 0.5rem;
+    display: inline-block;
+    color: white;
+    border-radius: 10%;
+    padding-top: 0.1rem;
+    text-align: center;
+    position: relative;
+    left:5.3rem;
+    bottom: 1.9rem;
+    font-size: 0.15rem
+}
+.back{
+    position: relative;
+    right: 2.9rem;
+}
